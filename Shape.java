@@ -1,4 +1,4 @@
-package ss2.bai_tap;
+package bai-tap-2;
 
 import java.util.Scanner;
 
