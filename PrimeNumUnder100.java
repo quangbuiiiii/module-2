@@ -1,4 +1,5 @@
-package ss2.bai_tap;
+package bai-tap-2;
+
 public class PrimeNuberLessThan100 {
     public static void main(String[] args) {
         short fistNumber = 2;
