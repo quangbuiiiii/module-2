@@ -1,4 +1,4 @@
-package ss4.bai_tap.stop_watch;
+package bai-tap-4;
 
 import java.time.LocalTime;
 
