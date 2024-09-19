@@ -1,4 +1,4 @@
-package ss5.bai_tap.access_modifier;
+package bai-tap-5;
 
 public class Circle {
     private double radius=1.0;
