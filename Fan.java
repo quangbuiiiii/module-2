@@ -1,4 +1,4 @@
-package ss4.bai_tap.fan;
+package bai-tap-4;
 
 public class Fan {
     final short low =1;
